@@ -72,3 +72,9 @@ a {
   justify-content: center;
   display: flex;
 }
+
+ul.freelance {
+  list-style-type: circle;
+  text-align: left;
+}
+
